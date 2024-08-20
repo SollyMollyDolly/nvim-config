@@ -1,0 +1,12 @@
+{
+  "cellular-automaton.nvim": { "branch": "main", "commit": "11aea08aa084f9d523b0142c2cd9441b8ede09ed" },
+  "eldritch.nvim": { "branch": "master", "commit": "48788ef2f7be7e86b0a57ef87f1a96bc18e24b8b" },
+  "lazy.nvim": { "branch": "main", "commit": "077102c5bfc578693f12377846d427f49bc50076" },
+  "nvim-autopairs": { "branch": "master", "commit": "19606af7c039271d5aa96bceff101e7523af3136" },
+  "nvim-treesitter": { "branch": "master", "commit": "1e860567fbc19f117a03c0d2c46dcc01325c1b8b" },
+  "plenary": { "branch": "master", "commit": "ec289423a1693aeae6cd0d503bac2856af74edaa" },
+  "plenary.nvim": { "branch": "master", "commit": "ec289423a1693aeae6cd0d503bac2856af74edaa" },
+  "telescope.nvim": { "branch": "0.1.x", "commit": "a0bbec21143c7bc5f8bb02e0005fa0b982edc026" },
+  "vim-illuminate": { "branch": "master", "commit": "5eeb7951fc630682c322e88a9bbdae5c224ff0aa" },
+  "which-key.nvim": { "branch": "main", "commit": "6c1584eb76b55629702716995cca4ae2798a9cca" }
+}
